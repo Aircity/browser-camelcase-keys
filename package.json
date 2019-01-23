@@ -1,0 +1,6 @@
+{
+  "name": "camelcase-keys",
+  "version": "4.2.0",
+  "main": "index.js",
+  "license": "MIT"
+}
